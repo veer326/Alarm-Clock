@@ -11,7 +11,7 @@ The Alarm Clock App is a simple web application that allows users to set and man
 5.Responsive design with an aesthetic user interface.
 # Usage
 1.Clock Display:
-The clock display at the top of the page provides real-time information about the current date and time.
+The clock display at the top of the page provides real-time information about the current date and time. /n
 2.Set Alarm:
 Use the dropdown menus to select the desired hour, minute, and AM/PM for your alarm.
 Click the "Set Alarm" button to add the alarm to the list.
