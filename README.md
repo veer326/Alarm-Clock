@@ -25,5 +25,7 @@ Each entry includes the alarm time and a "Delete" button to remove the alarm.
 Click the "Delete" button next to an alarm entry to remove it from the list.
 Stop Alarm:
 When an alarm rings, click the "Stop Alarm" button to silence the alarm sound.
-#Hosted Link :
+
+# Hosted Link :
+
      `https://veer326.github.io/Alarm-Clock/`
