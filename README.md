@@ -16,9 +16,11 @@ The clock display at the top of the page provides real-time information about th
 2.Set Alarm:
 Use the dropdown menus to select the desired hour, minute, and AM/PM for your alarm.
 Click the "Set Alarm" button to add the alarm to the list.
+
 3.Alarm List:
 View the list of set alarms below the clock display.
 Each entry includes the alarm time and a "Delete" button to remove the alarm.
+
 4.Delete Alarm:
 Click the "Delete" button next to an alarm entry to remove it from the list.
 Stop Alarm:
