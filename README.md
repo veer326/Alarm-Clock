@@ -28,4 +28,4 @@ When an alarm rings, click the "Stop Alarm" button to silence the alarm sound.
 
 # Hosted Link :
 
-     `https://veer326.github.io/Alarm-Clock/`
+     https://veer326.github.io/Alarm-Clock/
